@@ -8,7 +8,7 @@ import Chatbot from '../components/Chatbot/Chatbot'
 
 type Props = {}
 
-const page = (props: Props) => {
+const Page = (props: Props) => {
     const [route, setRoute] = useState("Login");
     const [open, setOpen] = useState(false);
   return (
@@ -39,4 +39,4 @@ const page = (props: Props) => {
   )
 }
 
-export default page
+export default Page

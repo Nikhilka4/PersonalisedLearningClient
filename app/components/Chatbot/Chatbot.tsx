@@ -162,8 +162,8 @@ const Chatbot = () => {
             <Goal className="text-blue-500"/>
             <p className="ml-2 text-[18px]">
               You can use our chitchat bot to create your own personalized study
-              plan by using a prompt,(For example:"How do i cover entire
-              javascript in a month studing 2 hours per day"){" "}
+              plan by using a prompt,(For example:&quot;How do i cover entire
+              javascript in a month studing 2 hours per day&quot;){" "}
             </p>
           </div>
           <div className="flex mt-3">
@@ -175,7 +175,7 @@ const Chatbot = () => {
           <div className="flex mt-3">
             <Goal className="text-blue-500"/>
             <p className="ml-2 text-[18px]">
-              You can also upload a ".txt" file directly using the upload button {" "}
+              You can also upload a &quot;.txt&quot; file directly using the upload button {" "}
             </p>
           </div>
           <div className="flex mt-3">
@@ -187,7 +187,7 @@ const Chatbot = () => {
           <div className="flex my-3 ">
             <Goal className="text-blue-500"/>
             <p className="ml-2 text-[18px]">
-              You can also download the response in the form of ".txt" file by clicking the download button{" "}
+              You can also download the response in the form of &quot;.txt&quot; file by clicking the download button{" "}
             </p>
           </div>
         </div>
